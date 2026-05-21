@@ -2,6 +2,10 @@
 
 Interactive checklist for reviewing common front-end security risks in web applications.
 
+## Live demo
+
+https://frontend-security-checklist.vercel.app
+
 ## Goal
 
 This project connects front-end development experience with Cyber Security fundamentals. It focuses on practical review points that appear in real web applications:
@@ -28,6 +32,7 @@ This project connects front-end development experience with Cyber Security funda
 - risk filter by severity
 - interactive checklist progress
 - controlled examples comparing insecure and safer patterns
+- security score analyzer with weighted risk recommendations
 - responsive sidebar and mobile navigation
 
 ## Project structure
